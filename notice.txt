@@ -1,0 +1,1 @@
+please turn GL_BLEND off when you can to save the resource
